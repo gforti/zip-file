@@ -40,6 +40,7 @@
       element.setAttribute('download', filename)
       element.setAttribute('hidden', 'hidden')
       element.click()
+      globalThis.URL.revokeObjectURL(url)
     }
 
 
