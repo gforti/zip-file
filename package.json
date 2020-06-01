@@ -1,0 +1,13 @@
+{
+  "name": "zipfile",
+  "description": "Project Description update",
+  "version": "0.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "scripts": {
+    "none": ""
+  },
+  "dependencies": {
+    "jszip": "^3.4.0"
+  }
+}
